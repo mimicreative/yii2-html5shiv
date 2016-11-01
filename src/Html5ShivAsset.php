@@ -1,6 +1,6 @@
 <?php
 
-namespace mimicreative\html5shiv;
+namespace mimicreative\assets;
 
 class Html5ShivAsset extends \yii\web\AssetBundle {
   
