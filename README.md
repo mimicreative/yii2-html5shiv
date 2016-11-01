@@ -38,5 +38,5 @@ public $depends = [
 ];
 ```
 
-By default, this will install respond js file at the head.
+By default, this will install html5shiv js file at the head.
 
